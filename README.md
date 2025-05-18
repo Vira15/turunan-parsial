@@ -1,0 +1,2 @@
+# turunan-parsial
+semoga bisa
